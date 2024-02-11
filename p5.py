@@ -1,4 +1,4 @@
-# List of item names
+#items
 item_names = ["Pen", "BOok", "marKer"]
 
 # Case 01: Find out the length of each item and store in another list
